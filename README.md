@@ -67,6 +67,7 @@ Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios
 
 - Caso o rating do emissor não esteja registrado no lajeado, será indicado na nona coluna:
 
+![rating](https://user-images.githubusercontent.com/61240450/74883297-6b8ac600-534f-11ea-8fc4-92f286cd85fe.jpg)
 
 ## Detalhamento de processos
 
