@@ -27,16 +27,18 @@ Rotina em Python para cálculo de MTM de bancários da carteira própria da XP q
 
 ## Instalação
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
 Windows:
 
 ```sh
-edit autoexec.bat
+# No CMD
+> mkdir mtm_bancarios
+> cd mtm_bancarios
+> py -m venv .venv
+(py pode ser python ou python3)
+> .venv\scripts\activate
+(colocar requirements.txt na pasta)
+> pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org -r requirements.txt
+(colocar os arquivos na pasta)
 ```
 
 ## Exemplo de uso
