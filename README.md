@@ -38,11 +38,11 @@ Rotina em Python para cálculo de MTM de bancários da carteira própria da XP q
 > pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org -r requirements.txt
 (colocar os arquivos na pasta)
 ```
-## Acessos necessários
-```sh \\viseu\Back_Office_Renda_Fixa\Arquivos\Compartilhamento - Outras Equipes\Risco e Trading Finance```
-
-
-
+## Requsitos
+-Acessos
+``` \\viseu\Back_Office_Renda_Fixa\Arquivos\Compartilhamento - Outras Equipes\Risco e Trading Finance```
+``` \\viseu\Asset_xpi\Precificacao\Curvas Mellon```
+- de_virtual_para_lajeado.csv atualizado
 
 ## Exemplo de uso
 
