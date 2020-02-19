@@ -73,6 +73,9 @@ Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios
 
 ![pre e real](https://user-images.githubusercontent.com/61240450/74885037-5879f500-5353-11ea-85c5-3d516d157f2f.jpg)
 
+- Caso não seja possível calcular a Taxa MTM e o MTM, indicará 0 e -1 respectivamente:
+
+
 ## Detalhamento de funções
 
 Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
