@@ -1,13 +1,29 @@
-# Nome do produto
-> Descrição curta sobre o que seu projeto faz.
+# MTM de bancários
+> Cáculo de MTM de bancários da carteira própria da XP.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-
-![](../header.png)
+Rotina em Python para cálculo de MTM de bancários da carteira própria da XP que:
+   1. Seleciona os bancarios dos ativos de renda fixa na carteira própria da corretora e seus emissores (RLESTOQUECARTEIRA).
+   2. Armazena os ativos em objetos da classe Asset e armazena os objetos em um dicionário.
+   3. Busca em um de para o nome registrado no Lajeado para cada nome de emissor no Virtual
+   4. Consulta os ratings e a data de registro dos emissores no Lajeado e os armazena nos objetos
+   5. Armazena tabelas de pesos referente a rating, indexador e term em um objeto da classe Scores
+      que possui métodos para retornar os pesos referentes a cada rating, indexador e term.
+   6. Armazena todos os objetos em um fila para ser usado multi-threading para puxar e armazenar os segintes dados por API:
+      - Deal type
+      - Ratio
+      - Spread
+      - Maturity Date
+      - Indexer
+   7. Armazena os ativos em outro dicionário
+   8. Armazena curvas de DI e IPCA futuro em objetos das classes PreCurve e IpcaCurve, respectivamente, com métodos para retornar
+      a taxa de acordo com a data solicitada
+   9. Armazena os seguintes dados:
+      - Pesos
+      - Penalty com base no peso total
+      - Taxa DI e IPCA no vencimento do papel
+   10. Calcula a taxa MTM de cada ativo e o armazena
+   11. Calcula MTM e o armazena
+   12. Importa todos os dados armazenados para um aquivo .csv
 
 ## Instalação
 
