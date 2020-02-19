@@ -59,6 +59,9 @@ Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios
 
 - Caso o rating do emissor não esteja registrado no lajeado, será indicado na quinta coluna:
 
+![indexador](https://user-images.githubusercontent.com/61240450/74882942-b1935a00-534e-11ea-8314-e40c01145fe9.jpg)
+- O mesmo ocorre para deal type na sétima coluna:
+
 
 ## Detalhamento de processos
 
