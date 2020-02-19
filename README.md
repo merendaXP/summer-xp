@@ -36,21 +36,21 @@ Rotina em Python para cálculo de MTM de bancários da carteira própria da XP q
 > .venv\scripts\activate
 (colocar requirements.txt na pasta)
 > pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org -r requirements.txt
-(colocar os arquivos na pasta)
+(colocar os arquivos .py e .csv na pasta)
 ```
 ## Requisitos
 - Acessos
 
 ``` \\viseu\Back_Office_Renda_Fixa\Arquivos\Compartilhamento - Outras Equipes\Risco e Trading Finance```
 ``` \\viseu\Asset_xpi\Precificacao\Curvas Mellon```
-- de_virtual_para_lajeado.csv atualizado
+- Planilha de/para atualizada
 
 ## Exemplo de uso
 
 Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
 
 
-## Configuração para Desenvolvimento
+## Detalhamento de processos
 
 Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
 
