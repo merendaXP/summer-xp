@@ -40,8 +40,8 @@ Rotina em Python para cálculo de MTM de bancários da carteira própria da XP q
 ```
 ## Acessos necessários
 -```
-\\viseu\Back_Office_Renda_Fixa\Arquivos\Compartilhamento - Outras Equipes\Risco e Trading Finance
-```
+\\viseu\Back_Office_Renda_Fixa\Arquivos\Compartilhamento - Outras Equipes\Risco e Trading Finance```
+
 
 
 
