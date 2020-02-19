@@ -48,6 +48,7 @@ Rotina em Python para cálculo de MTM de bancários da carteira própria da XP q
 ## Exemplo de uso
 
 Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios.py e alterar a variável date para o dia desejado que a rotina seja executada:
+
 ![main](https://user-images.githubusercontent.com/61240450/74881291-ce7a5e00-534b-11ea-87cb-702edb2cdd48.JPG)
 
 ## Entendimento do arquivo gerado
