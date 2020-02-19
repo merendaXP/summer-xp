@@ -69,8 +69,9 @@ Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios
 
 ![rating](https://user-images.githubusercontent.com/61240450/74883297-6b8ac600-534f-11ea-8fc4-92f286cd85fe.jpg)
 
-- Caso não seja encontrado o vencimento nas curvas futuras de DI e IPCA, será indicado o valor 10, acontece caso o ativo ja tenha vencido
+- Caso não seja encontrado o vencimento nas curvas futuras de DI e IPCA, será indicado o valor 10, acontece caso o ativo ja tenha vencido:
 
+![pre e real](https://user-images.githubusercontent.com/61240450/74885037-5879f500-5353-11ea-85c5-3d516d157f2f.jpg)
 
 ## Detalhamento de funções
 
