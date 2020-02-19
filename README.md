@@ -68,4 +68,4 @@ npm test
 
 ## Meta
 
-Seu Nome – pedro.leal@xpi.com.br
+Pedro Henrique Bonfim Leal – pedro.leal@xpi.com.br
