@@ -55,6 +55,10 @@ Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios
 
 - Caso o de/para esteja desatualizado, ou seja não consiga encontrar o emissor registrado no lajeado para um emissor registrado no virtual na terceira coluna haverá indicação desse ocorrido:
 
+![depara](https://user-images.githubusercontent.com/61240450/74882683-49dd0f00-534e-11ea-9b48-889e5b341392.jpg)
+
+- Caso o rating do emissor não esteja registrado no lajeado, será indicado na quinta coluna:
+
 
 ## Detalhamento de processos
 
