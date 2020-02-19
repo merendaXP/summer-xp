@@ -76,7 +76,6 @@ Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios
 - Caso não seja possível calcular a Taxa MTM e o MTM, indicará 0 e -1 respectivamente:
 
 ![mtm ratio e mtm](https://user-images.githubusercontent.com/61240450/74885272-e6ee7680-5353-11ea-9d73-750317c28492.png)
-
 ## Histórico de lançamentos
 
 * 0.1.0
