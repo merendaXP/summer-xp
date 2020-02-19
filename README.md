@@ -69,7 +69,10 @@ Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios
 
 ![rating](https://user-images.githubusercontent.com/61240450/74883297-6b8ac600-534f-11ea-8fc4-92f286cd85fe.jpg)
 
-## Detalhamento de processos
+- Caso não seja encontrado o vencimento nas curvas futuras de DI e IPCA, será indicado o valor 10, acontece caso o ativo ja tenha vencido
+
+
+## Detalhamento de funções
 
 Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
 
