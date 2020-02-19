@@ -53,6 +53,8 @@ Para uso da rotina com todos os requisitos basta acessar o arquivo mtm_bancarios
 
 ## Entendimento do arquivo gerado
 
+- Caso o de/para esteja desatualizado, ou seja não consiga encontrar o emissor registrado no lajeado para um emissor registrado no virtual na terceira coluna haverá indicação desse ocorrido:
+
 
 ## Detalhamento de processos
 
