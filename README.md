@@ -40,6 +40,7 @@ Rotina em Python para cálculo de MTM de bancários da carteira própria da XP q
 ```
 ## Requsitos
 -Acessos
+
 ``` \\viseu\Back_Office_Renda_Fixa\Arquivos\Compartilhamento - Outras Equipes\Risco e Trading Finance```
 ``` \\viseu\Asset_xpi\Precificacao\Curvas Mellon```
 - de_virtual_para_lajeado.csv atualizado
